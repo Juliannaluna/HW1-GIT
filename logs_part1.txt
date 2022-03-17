@@ -1,0 +1,42 @@
+4a02bec (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{0}: merge develop: Fast-forward
+2444ecd (origin/feature2, origin/feature1, feature2, feature1) HEAD@{1}: checkout: moving from develop to master
+4a02bec (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{2}: merge feature4: Fast-forward
+b9c1ec3 (origin/feature3, feature3) HEAD@{3}: checkout: moving from feature4 to develop
+4a02bec (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{4}: checkout: moving from develop to feature4
+b9c1ec3 (origin/feature3, feature3) HEAD@{5}: merge feature3: Fast-forward
+f85e343 HEAD@{6}: checkout: moving from feature3 to develop
+b9c1ec3 (origin/feature3, feature3) HEAD@{7}: checkout: moving from feature4 to feature3
+4a02bec (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{8}: commit: added text and style for text
+b9c1ec3 (origin/feature3, feature3) HEAD@{9}: checkout: moving from feature3 to feature4
+b9c1ec3 (origin/feature3, feature3) HEAD@{10}: commit: added picture to index
+f85e343 HEAD@{11}: checkout: moving from develop to feature3
+f85e343 HEAD@{12}: rebase (finish): returning to refs/heads/develop
+f85e343 HEAD@{13}: rebase (pick): added new pics to index.html
+914a5d8 HEAD@{14}: rebase (start): checkout feature4
+d5727c7 HEAD@{15}: rebase (finish): returning to refs/heads/develop
+d5727c7 HEAD@{16}: rebase (start): checkout feature3
+2444ecd (origin/feature2, origin/feature1, feature2, feature1) HEAD@{17}: checkout: moving from feature4 to develop
+914a5d8 HEAD@{18}: commit: added border for first div
+2444ecd (origin/feature2, origin/feature1, feature2, feature1) HEAD@{19}: checkout: moving from develop to feature4
+2444ecd (origin/feature2, origin/feature1, feature2, feature1) HEAD@{20}: checkout: moving from feature3 to develop
+d5727c7 HEAD@{21}: commit: added new pics to index.html
+2444ecd (origin/feature2, origin/feature1, feature2, feature1) HEAD@{22}: checkout: moving from develop to feature3
+2444ecd (origin/feature2, origin/feature1, feature2, feature1) HEAD@{23}: checkout: moving from master to develop
+2444ecd (origin/feature2, origin/feature1, feature2, feature1) HEAD@{24}: merge develop: Fast-forward
+28431de HEAD@{25}: checkout: moving from feature2 to master
+2444ecd (origin/feature2, origin/feature1, feature2, feature1) HEAD@{26}: merge develop: Fast-forward
+15d0054 HEAD@{27}: checkout: moving from feature1 to feature2
+2444ecd (origin/feature2, origin/feature1, feature2, feature1) HEAD@{28}: merge develop: Fast-forward
+545179e HEAD@{29}: checkout: moving from develop to feature1
+2444ecd (origin/feature2, origin/feature1, feature2, feature1) HEAD@{30}: commit (merge): fixed merge conflict index.html
+545179e HEAD@{31}: merge feature1: Fast-forward
+daa4518 HEAD@{32}: checkout: moving from feature2 to develop
+15d0054 HEAD@{33}: commit: added styles to index.html
+daa4518 HEAD@{34}: checkout: moving from develop to feature2
+daa4518 HEAD@{35}: checkout: moving from feature1 to develop
+545179e HEAD@{36}: commit: added changes to index.html
+95ec52c HEAD@{37}: commit: add pic
+daa4518 HEAD@{38}: checkout: moving from develop to feature1
+daa4518 HEAD@{39}: commit: add index.html
+28431de HEAD@{40}: checkout: moving from master to develop
+28431de HEAD@{41}: commit (initial): first commit
